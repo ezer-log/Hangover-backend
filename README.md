@@ -1,5 +1,5 @@
 ---
-title: 1st 프로젝트 Hangover
+title: Project Hangover
 date: April - May 2022
 ---
 
